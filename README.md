@@ -4,7 +4,8 @@
 
 Este projeto demonstra a criação de um desenho em CSS de uma astronauta chamada Maoly Lara. A astronauta é estilizada com detalhes intrincados e é exibida em um fundo estrelado com um efeito de cintilação.
 
-![Astronauta Maoly Lara](astronauta.png)
+![Astronauta Maoly Lara]![image](https://github.com/MaolyDevTech/CSS-pratica/assets/144358009/a4b2438b-0f37-4cc0-a760-0b54aa4e5480)
+
 
 ## Como Funciona
 
